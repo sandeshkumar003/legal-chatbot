@@ -3,10 +3,12 @@ langchain
 langchain-community
 chromadb
 sentence-transformers
-llama-cpp-python
 PyPDF2
 tqdm
 numpy
 torch
 langchain-text-splitters==1.0.0
+llama-cpp-python
+
+
 
