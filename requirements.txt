@@ -8,4 +8,4 @@ PyPDF2
 tqdm
 numpy
 torch
-langchain_text_splitters
+langchain_text_splitters==1.0.0
