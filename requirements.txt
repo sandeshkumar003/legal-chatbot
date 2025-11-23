@@ -8,3 +8,4 @@ PyPDF2
 tqdm
 numpy
 torch
+langchain_text_splitters
